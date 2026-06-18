@@ -1,7 +1,3 @@
-# EVENT-BOARD-RTC-DRIVEN-MESSAGE-DISPLAY-SYSTEM
-
-Based on your uploaded project document, here is a professional **GitHub README.md** for your project.
-
 # EventBoard – RTC-Driven Message Display System
 
 ## Overview
